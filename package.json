@@ -10,7 +10,7 @@
   "author": "bestestcode",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.17.0",
+    "axios": "^1.15.0",
     "axios-mock-adapter": "^1.9.0",
     "enzyme": "^3.1.1",
     "enzyme-adapter-react-16": "^1.0.4",
