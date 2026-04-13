@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "ganache": "7.0.0",
-    "diff": ">= 3.5.0",
+    "diff": ">= 3.5.1",
     "braces": "^2.3.2",
     "mem": ">=4.0.0",
     "minimist": ">=1.2.6"
